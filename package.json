@@ -1,0 +1,17 @@
+{
+  "name": "basketui",
+  "version": "1.0.0",
+  "description": "A simple shopping basket built with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Richard Gibson",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  },
+  "dependencies": {
+    "react-dom": "^15.5.4"
+  }
+}

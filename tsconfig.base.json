@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "watch": true,                    
+    "target": "es5",
+    "sourceMap": true,
+    "strict": true,
+    "outFile": "build/app.js",
+    "jsx": "react",
+    "allowJs": true
+  },
+  "exclude": [
+    "node_modules",
+    "typings/browser.d.ts",
+    "typings/browser"
+  ]
+}

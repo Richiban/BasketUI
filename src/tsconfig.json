@@ -1,0 +1,6 @@
+{
+    "extends": "../tsconfig.base",
+    "include": [
+        "./UI/main.tsx"
+    ]
+}
